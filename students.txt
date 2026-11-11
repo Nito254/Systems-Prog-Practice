@@ -1,0 +1,4 @@
+105 Alice 3.80
+101 Bob 3.50
+103 Charlie 3.95
+102 Diana 3.60
